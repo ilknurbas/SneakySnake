@@ -11,7 +11,7 @@ Run
 and as a output, **File.txt** will be generated inside SneakySnake-Edlib directory.
  
 ```sh
-Seq No       X      Y    X-Y
+Seq No      X      Y    X-Y
      0     -1     -1     -1
      1     -1     -1     -1
      2     -1     -1     -1

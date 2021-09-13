@@ -118,3 +118,13 @@ For ../Datasets/ERR240727_1_E2_30000Pairs.txt
  #negative 76
 
 ```
+Also, on console the execution time is printed.
+```sh
+This system has 4 processors configured and 4 processors available.
+        Sneaky Snake and Edlib Total Time: 7 milliseconds
+Seq No       X      Y    X-Y
+For ../Datasets/ERR240727_1_E2_30000Pairs.txt
+ #positive 21
+ #neutral 2
+ #negative 77
+```

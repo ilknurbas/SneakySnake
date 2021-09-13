@@ -18,8 +18,9 @@ SneakySnake checks all rows and finds the row with the largest number of zeros. 
 ```
 SneakySnake-Edlib
 ├───1. Evaluation Results
-    ├───1.1 
-    ├───1.2   
+    ├───1.1 Files 
+    ├───1.2 README.md
+    ├───1.3 Results.xlsx
 ├───2. Makefile
 ├───3. README.md
 ├───4. SneakySnake.c

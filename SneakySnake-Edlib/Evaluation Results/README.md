@@ -1,6 +1,7 @@
 
 ## <a name="test"></a>Evaluation Results
-The Excel document contains all evaluation results using the datasets in **"../../Datasets"** directory.
+* The Excel document contains all evaluation results using the datasets in **"../../Datasets"** directory. </br>
+* **"Files"** directory contains all .txt files that are generated for each evaluation case in the Excel document.
 
 ## <a name="output"></a>Output
 Run 
